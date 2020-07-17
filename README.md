@@ -1,6 +1,6 @@
 ### Hi i am theiz 👋
 
-Location: [Jayapura, Papua].
+Location: Jayapura, Papua.
 
 
 - 🔭 I am currently working on several simple projects with *flask* and *django*
