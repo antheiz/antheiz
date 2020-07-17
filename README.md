@@ -1,6 +1,6 @@
 ### Hi i am theiz 👋
 
-I live in Jayapura-Papua. My interests range from technology to music. I am very interested in the development of Linux, Python  for Network Automation and Web Developement (Flask,Django) , Networking, and Cloud Computing.
+I live in Jayapura-Papua. My interests range from technology to music. I am very interested in the development of Linux, Python  for Network Automation and Web Developement (Flask,Django) And Networking.
 
 
 - 🔭 I am currently working on several simple projects with *flask* and *django*
