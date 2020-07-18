@@ -8,7 +8,8 @@ I am theiz from Jayapura-Papua. My interests range from technology to music. I a
 - Know/Using
 
 |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="bash logo" width="24">](https://www.java.com/en/) 
----------------------
+
+----------------------------------------------------------------------------------------------------------
 
 - Learning
 
