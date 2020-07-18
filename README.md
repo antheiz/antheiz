@@ -35,7 +35,7 @@ I am theiz from Jayapura-Papua. My interests range from technology to music. I a
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/antroytheiz) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/theiz.andatu/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram" width="24">](https://t.me/antroytheiz) | [<img src=" https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="gitlab logo" width="24">](https://blog.antroytech.my.id)
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/antroytheiz) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/theiz.andatu/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram" width="24">](https://t.me/antroytheiz) | [<img src=" https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flaticons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="gitlab logo" width="24">](https://blog.antroytech.my.id)
 
 ----------------------------------------------------------------------------------------------------------
 ⭐️ Thanks [Antroy Theiz](https://github.com/antroytheiz)
