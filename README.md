@@ -6,5 +6,5 @@ I live in Jayapura-Papua. My interests range from technology to music. I am very
 - 📫 You can contact me: Telegram : [@antroytheiz](https://t.me/antroytheiz)
 - 📝 You can also see notes about the material I studied at [blog.antroytech.my.id](https://blog.antroytech.my.id)
 
-![Theiz github stats](https://github-readme-stats.vercel.app/api?username=antroytheiz&hide=["issues"]&show_icons=true)
+![Theiz github stats](https://github-readme-stats.vercel.app/api?username=antroytheiz)
 
