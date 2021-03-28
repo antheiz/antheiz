@@ -7,7 +7,7 @@ I live in Jayapura-Papua. My interests range from technology to sport (soccer). 
 - 🌱 I'm currently learning Python for *web development* and *network automation*
 - 😄 I'm natively speak Indonesian and little can speak english.
 - 📫 You can contact me: Telegram : [@antroytheiz](https://t.me/antroytheiz)
-- 📝 You can also see notes about the material I studied at [blog.antroytech.my.id](https://blog.antroytech.my.id)
+- 📝 You can check <a href="http://theisandatu.com">my personal website</a> to see my notes.
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antheiz&theme=vue">
