@@ -1,5 +1,5 @@
 ### Hi i am antheiz 👋
-I live in Jayapura-Papua. My interests range from technology to sport (soccer). I am very interested in the development of Linux, Python  for Network Automation, Web Developement (Flask,Django) and Network Infrastructure (MikroTik, Cisco).
+I live in Jayapura-Papua. My interests range from technology to sport (soccer). I am very interested in the development of Linux, Python  for Network Automation, Web Developement (Flask,Django) also Network Infrastructure (MikroTik, Cisco).
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=antheiz&show_icons=true)
 
