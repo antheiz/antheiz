@@ -1,5 +1,5 @@
 ### Hi i am antheiz 👋
-I live in Jayapura-Papua. I'm work with Flask, Django, Laravel, Linux, Networking
+I live in Jayapura-Papua. I'm work with Flask, Django, Laravel, Linux, Networking (Cisco, Mikrotik)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=antheiz&show_icons=true)
 
