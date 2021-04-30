@@ -1,5 +1,5 @@
 ### Hi i am antheiz 👋
-I live in Jayapura-Papua. I am very interested in the development of Linux, Python  for Network Automation and Web Developement (Flask,Django) also Network Infrastructure (MikroTik, Cisco, Cloud).
+I live in Jayapura-Papua. I'm work with Flask, Django, Laravel, Linux, Networking
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=antheiz&show_icons=true)
 
