@@ -1,4 +1,4 @@
-### Hi i am antheiz 👋
+### Hi i'm Theis 👋
 I live in Jayapura-Papua. I'm work with Flask, Django, Laravel, Linux, Networking (Cisco, Mikrotik)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=antheiz&show_icons=true)
