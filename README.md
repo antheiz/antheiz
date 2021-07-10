@@ -1,7 +1,7 @@
 ### Hi i'm Theis 👋
 I living in Jayapura Papua. I'm work using Flask, Django, Laravel, Linux, and Networking (Cisco, Mikrotik). 
 
-![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=8&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats)
+![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antheiz&theme=react&layout=compact&langs_count=8&custom_title=Antheiz%20%27s%20Wakatime%20Stats)
 
 <h2>📝 Statistics: </h2>
 <table>
