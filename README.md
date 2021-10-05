@@ -4,6 +4,6 @@ I living in Jayapura Papua.
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <p align="center">
-  <img width="600" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <img width="600" height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
