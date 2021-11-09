@@ -14,7 +14,7 @@ My name is <b>Theis</b> and I live in Jayapura, Papua. I'm a software and web de
 #### 🌱 Areas of programming that I love to learn
 
 - Web Development
-- Mobile App Development
+- Mobile Apps Development
 - Embedded system and IoT
 - Network Programming
 
