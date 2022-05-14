@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is <b>Theis</b> and I living in Jayapura, Papua. I'm a software developer.
+My name is <b>Theis</b> and I live in Jayapura, Papua. I am passionate about software development
 
 <br>
 <p align="center">
