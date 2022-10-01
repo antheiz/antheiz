@@ -2,8 +2,6 @@
 
 I'm <b>Theis</b>. A passionate software developer from Jayapura, Who is currently focusing on Web platform development. Experience in Django and Back end development.
 
-[![@antheiz's Holopin board](https://holopin.io/api/user/board?user=antheiz)](https://holopin.io/@antheiz)
-
  
  <!--START_SECTION:waka-->
 
