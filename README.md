@@ -6,12 +6,12 @@ I'm <b>Theis</b>. A passionate software developer from Jayapura, Who is currentl
  <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-Total Time: 4 hrs 57 mins
+Total Time: 3 hrs 52 mins
 
-HTML     4 hrs 47 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.57 %
-Python   10 mins         >------------------------   03.43 %
+HTML     3 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.60 %
+Python   10 mins         >------------------------   04.40 %
 ```
 
 <!--END_SECTION:waka-->
