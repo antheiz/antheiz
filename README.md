@@ -6,7 +6,7 @@ I'm <b>Theis</b>. A passionate software developer from Jayapura, Currently focus
  <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
 Total Time: 9 hrs 36 mins
 
