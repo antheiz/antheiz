@@ -6,16 +6,16 @@ I'm <b>Theis</b>. A passionate software developer from Jayapura, Currently focus
  <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
-Total Time: 22 hrs 51 mins
+Total Time: 26 hrs 21 mins
 
-HTML         19 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>----   83.65 %
-Go           1 hr 8 mins     >------------------------   04.98 %
-Python       52 mins         >------------------------   03.82 %
-TOML         35 mins         >------------------------   02.56 %
-JavaScript   29 mins         >------------------------   02.15 %
-Markdown     26 mins         -------------------------   01.93 %
+HTML         22 hrs 24 mins  >>>>>>>>>>>>>>>>>>>>>----   85.03 %
+Go           1 hr 8 mins     >------------------------   04.32 %
+Python       1 hr 1 min      >------------------------   03.86 %
+Markdown     49 mins         >------------------------   03.12 %
+JavaScript   25 mins         -------------------------   01.61 %
+TOML         19 mins         -------------------------   01.25 %
 ```
 
 <!--END_SECTION:waka-->
