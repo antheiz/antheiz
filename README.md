@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm <b>Theis</b>. software developer from Jayapura, Currently focusing on Web platform development. Love to build open source products. Interested in the topic of Distributed Systems.
+I'm <b>Theis</b>, Software developer from Jayapura, Currently focusing on Web platform development. Love to build open source products. Interested in the topic of Distributed Systems.
 
 
 
