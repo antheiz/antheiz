@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm <b>Theis</b>. A passionate software developer from Jayapura, Currently focusing on Web platform development. Experience in Python Web Framework and Back end development using Golang.
+I'm <b>Theis</b>. software developer from Jayapura, Currently focusing on Web platform development. Love to build open source products. Interested in the topic of Distributed Systems.
+
+
 
  
  <!--START_SECTION:waka-->
