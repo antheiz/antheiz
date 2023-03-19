@@ -8,7 +8,7 @@ I'm <b>Theis</b>, Software Developer from Jayapura, Papua. Currently focusing on
  <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 Total Time: 7 hrs 44 mins
 
