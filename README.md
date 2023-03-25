@@ -8,15 +8,15 @@ I'm <b>Theis</b>, Software Developer from Jayapura, Papua. Currently focusing on
  <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Total Time: 6 hrs 4 mins
+Total Time: 5 hrs 40 mins
 
-HTML         5 hrs 46 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.09 %
-Bash         10 mins         >------------------------   02.91 %
-Python       7 mins          -------------------------   01.99 %
-JavaScript   0 secs          -------------------------   00.01 %
-CSS          0 secs          -------------------------   00.01 %
+HTML       3 hrs 14 mins   >>>>>>>>>>>>>>-----------   57.11 %
+TeX        1 hr 43 mins    >>>>>>>>-----------------   30.38 %
+YAML       34 mins         >>>----------------------   10.24 %
+Markdown   5 mins          -------------------------   01.60 %
+BibTeX     2 mins          -------------------------   00.67 %
 ```
 
 <!--END_SECTION:waka-->
