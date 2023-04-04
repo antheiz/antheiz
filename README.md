@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm <b>Theis</b>, Software Developer from Jayapura, Papua. Currently focusing on Web platform development. In spare time, Love to build open source products.
+I'm <b>Theis</b>, Independent Software Developer from Jayapura, Papua. Currently focusing on Web platform development. In spare time, Love to build open source products.
 
 
 
