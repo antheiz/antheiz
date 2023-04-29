@@ -8,13 +8,16 @@ I'm <b>Theis</b>, Independent Software Developer from Jayapura, Papua. Intereste
  <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
-Total Time: 13 hrs 49 mins
+Total Time: 17 hrs 7 mins
 
-Python       9 hrs 7 mins    >>>>>>>>>>>>>>>>---------   65.99 %
-HTML         4 hrs 40 mins   >>>>>>>>-----------------   33.75 %
-Other        0 secs          -------------------------   00.09 %
+Python       9 hrs 14 mins   >>>>>>>>>>>>>------------   53.96 %
+HTML         7 hrs           >>>>>>>>>>---------------   40.88 %
+Go           29 mins         >------------------------   02.84 %
+JSON         13 mins         -------------------------   01.27 %
+Astro        5 mins          -------------------------   00.49 %
+Docker       3 mins          -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
