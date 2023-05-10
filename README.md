@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm <b>Theis</b>, Independent Software Developer from Jayapura, Papua. Interested in backend and distributed systems. In my spare time, I love building open-source products.
+I'm Linuxer from Jayapura, Papua. Interested in backend and distributed systems. In my spare time, I love building open-source products.
 
 <br>
 
