@@ -8,15 +8,15 @@ I'm Linuxer from Jayapura, Papua. Interested in backend and distributed systems.
  <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2023 - To: 28 May 2023
+From: 22 May 2023 - To: 29 May 2023
 
-Total Time: 8 hrs 26 mins
+Total Time: 7 hrs 2 mins
 
-Astro         1 hr 56 mins    >>>>>>-------------------   23.01 %
-Python        1 hr 43 mins    >>>>>--------------------   20.42 %
-Lua           37 mins         >>-----------------------   07.49 %
-Other         35 mins         >>-----------------------   07.04 %
-Go            34 mins         >>-----------------------   06.72 %
+Astro         1 hr 36 mins    >>>>>>-------------------   22.77 %
+Python        1 hr 1 min      >>>>---------------------   14.44 %
+Go            34 mins         >>-----------------------   08.06 %
+conf          31 mins         >>-----------------------   07.55 %
+Other         31 mins         >>-----------------------   07.53 %
 ```
 
 <!--END_SECTION:waka-->
