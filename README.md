@@ -8,14 +8,14 @@ I'm Linuxer from Jayapura, Papua. Interested in backend. In my spare time, I lov
  <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 11 June 2023
+From: 05 June 2023 - To: 12 June 2023
 
-Total Time: 54 mins
+Total Time: 50 mins
 
-Python   43 mins         >>>>>>>>>>>>>>>>>>>>-----   79.05 %
-HTML     7 mins          >>>----------------------   13.45 %
-YAML     3 mins          >>-----------------------   06.19 %
-Other    0 secs          -------------------------   01.31 %
+Python   43 mins         >>>>>>>>>>>>>>>>>>>>>----   85.03 %
+HTML     3 mins          >>-----------------------   07.59 %
+YAML     3 mins          >>-----------------------   06.66 %
+Other    0 secs          -------------------------   00.72 %
 ```
 
 <!--END_SECTION:waka-->
