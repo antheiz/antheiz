@@ -8,7 +8,7 @@ I'm Linuxer from Jayapura, Papua. Interested in backend. In my spare time, I lov
  <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 21 June 2023
+From: 15 June 2023 - To: 22 June 2023
 
 Total Time: 6 hrs 22 mins
 
