@@ -8,15 +8,15 @@ I'm Linuxer from Jayapura, Papua. Interested in backend. In my spare time, I lov
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-Total Time: 6 hrs 22 mins
+Total Time: 4 hrs 24 mins
 
-Astro        5 hrs 46 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.74 %
-Markdown     16 mins         >------------------------   04.42 %
-Python       10 mins         >------------------------   02.82 %
-Git Config   3 mins          -------------------------   01.03 %
-Other        3 mins          -------------------------   00.99 %
+Astro        3 hrs 34 mins   >>>>>>>>>>>>>>>>>>>>-----   81.18 %
+JSON         18 mins         >>-----------------------   07.08 %
+Markdown     16 mins         >>-----------------------   06.38 %
+Python       10 mins         >------------------------   04.08 %
+JavaScript   1 min           -------------------------   00.55 %
 ```
 
 <!--END_SECTION:waka-->
