@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm from Jayapura, Papua. Interested in backend and distributed system. In my spare time, I love building open-source products.
+I'm from Jayapura, Papua. Interested in backend. In my spare time, I love building open-source products.
 
 <br>
 
