@@ -8,15 +8,15 @@ I'm from Jayapura, Papua. Interested in backend. In my spare time, I love buildi
  <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2023 - To: 28 October 2023
+From: 22 October 2023 - To: 29 October 2023
 
-Total Time: 18 hrs 21 mins
+Total Time: 23 hrs 56 mins
 
-HTML         6 hrs 6 mins    >>>>>>>>-----------------   33.22 %
-TypeScript   5 hrs 14 mins   >>>>>>>------------------   28.55 %
-Astro        3 hrs 49 mins   >>>>>--------------------   20.82 %
-Python       2 hrs 27 mins   >>>----------------------   13.36 %
-JavaScript   41 mins         >------------------------   03.79 %
+TypeScript   7 hrs 17 mins   >>>>>>>>-----------------   30.46 %
+Astro        6 hrs 7 mins    >>>>>>-------------------   25.59 %
+HTML         6 hrs 5 mins    >>>>>>-------------------   25.47 %
+Python       2 hrs 27 mins   >>>----------------------   10.24 %
+Markdown     1 hr 10 mins    >------------------------   04.92 %
 ```
 
 <!--END_SECTION:waka-->
