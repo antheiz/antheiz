@@ -8,12 +8,15 @@ I'm from Jayapura, Papua. Interested in backend. In my spare time, I love buildi
  <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 16 mins
+Total Time: 1 hr 52 mins
 
-Other    13 mins         >>>>>>>>>>>>>>>>>>>>>----   85.92 %
-Python   2 mins          >>>>---------------------   14.08 %
+Python       1 hr 12 mins    >>>>>>>>>>>>>>>>---------   64.07 %
+Other        20 mins         >>>>>--------------------   18.17 %
+Bash         7 mins          >>-----------------------   06.67 %
+INI          6 mins          >>-----------------------   06.00 %
+Text         4 mins          >------------------------   03.85 %
 ```
 
 <!--END_SECTION:waka-->
