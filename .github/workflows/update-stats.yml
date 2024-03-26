@@ -11,11 +11,17 @@ jobs:
     name: Update WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "False"
-          LOCALE: "en"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: true 
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
+          STOP_AT_OTHER: true 
