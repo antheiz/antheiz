@@ -5,7 +5,6 @@ I'm from Jayapura, Papua. Mostly, the code I write is for the backend. In my spa
 <br>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
