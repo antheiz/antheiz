@@ -2,6 +2,12 @@
 
 I'm from Jayapura, Papua. Mostly, the code I write is for the backend. In my spare time, I love building open-source projects.
 
+#### My interest in
+
+- Open Source, Cloud Native, Distributed Systems
+- Software Design & Architecture
+- Product Development
+
 <br>
 
 <!--START_SECTION:waka-->
