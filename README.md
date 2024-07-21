@@ -8,7 +8,7 @@ I'm from Jayapura, Papua. Mostly, the code I write is for the backend. In my spa
 - Software Design & Architecture
 - Product Development
 
-<br>
+#### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
