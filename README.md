@@ -4,9 +4,9 @@ I'm from Jayapura, Papua. Mostly, the code I write is for the backend. In my spa
 
 ####  🚀 My interest in
 
-- Open Source, Cloud Native, Distributed Systems
-- Software Design & Architecture
 - Product Development
+- Software Design & Architecture
+- Open Source, Cloud Native, Distributed Systems
 
 #### 👨‍💻 Weekly Coding Stats
 
