@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm from Jayapura, Papua. Mostly, the code I write is for server-side code. In my spare time, I love building open-source projects.
+I'm from Jayapura, Papua. Mostly, the code I write is for server-side. In my spare time, I love building open-source projects.
 
 ####  🚀 My interest in
 
